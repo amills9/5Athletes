@@ -26,11 +26,40 @@ Once this step has been completed, a prompt will ask you for an athlete’s name
 
 Identical steps are followed for Task1.js, however the deletion of the name is done in a different method.
 
-## Task3.js
+### Task3.js
 
 Task 3 is to be used in conjunction with taskthree.html
 
 It is a HTML form. 
 The save button will add the athlete's name and heights to the array.
-
 The find button will find the athlete's name and height within the array.
+*More to go here later*
+
+## Installation
+
+Ensure that the task1.js, task2.js, task3.js and taskthree.html are all in the same foler. 
+
+## Help
+
+*help section here*
+
+## Author
+
+Andrew Mills
+
+Created for TAFE NSW Australia
+
+Cert IV Programming
+
+ICTPRG414 - Programming Skills
+
+### Version History
+
+* 0.1 Initial Release - task1.js, task2.js
+* 0.2 Updated taskthree.html, README.md, LICENSE.md
+* 0.3 Updated task3.js, taskthree.html
+* 1.0
+
+### License
+
+This project is licensed under the [MIT](License.md) License
