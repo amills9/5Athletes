@@ -39,10 +39,6 @@ The find button will find the athlete's name and height within the array.
 
 Ensure that the task1.js, task2.js, task3.js and taskthree.html are all in the same foler. 
 
-## Help
-
-*help section here*
-
 ## Author
 
 Andrew Mills
@@ -58,7 +54,7 @@ ICTPRG414 - Programming Skills
 * 0.1 Initial Release - task1.js, task2.js
 * 0.2 Updated taskthree.html, README.md, LICENSE.md
 * 0.3 Updated task3.js, taskthree.html
-* 1.0
+* 1.0 Created all testing documentation. Create JSDoc. Final submit.
 
 ### License
 
